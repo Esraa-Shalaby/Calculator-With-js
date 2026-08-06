@@ -23,4 +23,4 @@ A clean, neon-styled calculator built with **HTML, CSS, and vanilla JavaScript**
 - Pressing **"="** evaluates the full expression and shows the result.
 - If the expression is invalid, the calculator catches the error and displays `"error"` instead of breaking.
 
-## 📁 Project Structure
+ 
